@@ -7,6 +7,13 @@ You can read the instructions here.
 
 # Evaluation
 
+I was realy happy with the result i receved. The algorithm was explicated mostly right and looked like the images i had in mind.
+i could manage that the images do not all look the same but it is still clear that all the people who put the aloritm into execution had the same task.
+
+
+# Resume
+
 I think it was a very good exercise to practise express myself.
-It was neccesary to think about every single word. Is this information realy needed or can i remove this.
-Keep things simple but not boring is one sentence wich describes this exercise the best in my eyes
+It was neccesary to think about every single word. Is this information realy needed or can i remove this?
+Can this sentence be more short and precise? Would i undestand this if i would read the instruction the first time?
+Keep things simple but not boring is one sentence wich describes this exercise the best in my eyes.
