@@ -10,7 +10,8 @@ After a couple of tries and improvements i came to following result:
 
 0. Write any number on the back of your paper
 
-1. Take the injection and spread the color with eyes closed drop per drop over the frontside of the paper.(Min. 10 drops)
+1. Take the injection and spread the color with eyes closed drop per drop over the frontside of the paper.
+ (Min. 10 drops)
 
 2. Let the dabs getting dry
 
@@ -21,9 +22,9 @@ After a couple of tries and improvements i came to following result:
 5. If you had written an even number on the back of your paper follow step **6a**
   Otherwise follow step **6b**
 
-6a Link all marked points of intersection with the black felt pen 
+  6a Link all marked points of intersection with the black felt pen 
 
-6b Retrace every line which you have made befor with your pen with the black felt pen.
+  6b Retrace every line which you have made befor with your pen with the black felt pen.
 
 # Evaluation
 
