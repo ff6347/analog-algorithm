@@ -1,11 +1,12 @@
 # Conceptual formulation
 
-The first exercise in the course "Eingabe-Ausgabe" was to device an analgogue algorithm.
+The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
 It need to be precise and clear for the people who put it into execution.
 After a couple of tries and improvements i came to following result:
-You can read the instructions here.
 
-Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection
+#Instructions#
+
+**Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection**
 
 0. Write any number on the back of your paper
 
