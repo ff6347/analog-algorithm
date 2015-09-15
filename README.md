@@ -5,6 +5,22 @@ It need to be precise and clear for the people who put it into execution.
 After a couple of tries and improvements i came to following result:
 You can read the instructions here.
 
+Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection
+
+0. Write any number on the back of your paper
+
+1. Take the injection and spread the color with eyes closed drop per drop over the frontside of the paper.(Min. 10 drops)
+
+2. Let the dabs getting dry
+
+3. Draw an ellipse arround every dab whose range isn`t bigger the the range of the pen  Smaller dabs can be inside of an ellipse as well
+Every ellipse need to carve minimum one other ellipse. Ellipses can get over the end of the paper.
+4. Mark every point of intersection with the black felt pen 
+5. If you had written an even number on the back of your paper follow step  6a
+  Otherwise follow step 6b
+6a Link all marked points of intersection with the black felt pen 
+6b Retrace every line which you have made befor with your pen with the black felt pen.
+
 # Evaluation
 
 I was realy satisfied with the results i receved. The algorithm was explicated mostly right and looked like the images i had in mind.
