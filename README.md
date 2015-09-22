@@ -36,10 +36,10 @@ Materials: white paper, green red and blue colored felt pen, mix of differnt pen
 
 These are the results of the second version executed by ten differnt people:
 
-![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/wv4yzp6.jpg)![Imgur](http://i.imgur.com/fXMfc50.jpg)
-![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
-![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
-![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
+![Imgur](http://i.imgur.com/lBnCcHw.jpg)![Imgur](http://i.imgur.com/19H62sU.jpg)![Imgur](http://i.imgur.com/HDQxzJ3.jpg)
+![Imgur](http://i.imgur.com/eQZf0hV.jpg)![Imgur](http://i.imgur.com/B6QbuMV.jpg)![Imgur](http://i.imgur.com/67aGWg9.jpg)
+![Imgur](http://i.imgur.com/ejLyWs3.jpg)![Imgur](http://i.imgur.com/b3xsz7x.jpg)![Imgur](http://i.imgur.com/9BthtOA.jpg)
+![Imgur](http://i.imgur.com/yPhSqis.jpg)![Imgur](http://i.imgur.com/tDBUnSV.jpg)
   
   
   
