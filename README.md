@@ -3,7 +3,7 @@
 The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
 It need to be precise and clear for the people who put it into execution.
 
-###Instructions### 
+### Instructions### 
 first version( 5 minutes speed exercise)
 
 + Draw 10 or more circles on a squarish drawing surface
@@ -23,7 +23,7 @@ Theese are the results of the very beginning:
   + If there are generated **overall**more then 5 intersections hatch them => **the intersections** blue
   + If there are generated **overall**less then 5 intersections hatch them => **the intersections** red
   
-###Instructions###
+### Instructions###
 second version
 Materials: white paper, green red and blue colored felt pen, mix of differnt pens, ball pens and so on
 
@@ -44,7 +44,7 @@ These are the results of the second version executed by ten differnt people:
   
   
 
-###Instructions###
+### Instructions###
 
 **Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection**
 
