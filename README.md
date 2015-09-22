@@ -4,6 +4,9 @@ The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogu
 It need to be precise and clear for the people who put it into execution.
 After a couple of tries and improvements i came to following result:
 
+![Imgur](http://i.imgur.com/0SmiFdv.jpg) ![Imgur](http://i.imgur.com/X53sdcI.jpg) ![Imgur](http://i.imgur.com/PfNRfgZ.jpg)
+  ![Imgur](http://i.imgur.com/EuHadmv.jpg) ![Imgur](http://i.imgur.com/BDIKPKQ.jpg)
+
 ###Instructions###
 
 **Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection**
@@ -26,13 +29,12 @@ After a couple of tries and improvements i came to following result:
 
   6b Retrace every line which you have made befor with your pen with the black felt pen.
   
-                                      ![Imgur](http://i.imgur.com/1SBEXML.jpg)                
+  ![Imgur](http://i.imgur.com/1SBEXML.jpg) ![Imgur](http://i.imgur.com/AmDdViQ.jpg)![Imgur](http://i.imgur.com/za4QzTZ.jpg)  
   
   
   
   
-  ![Imgur](http://i.imgur.com/0SmiFdv.jpg) ![Imgur](http://i.imgur.com/X53sdcI.jpg) ![Imgur](http://i.imgur.com/PfNRfgZ.jpg)
-  ![Imgur](http://i.imgur.com/EuHadmv.jpg) ![Imgur](http://i.imgur.com/BDIKPKQ.jpg)
+  
 
 # Evaluation
 
