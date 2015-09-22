@@ -2,10 +2,47 @@
 
 The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
 It need to be precise and clear for the people who put it into execution.
-After a couple of tries and improvements i came to following result:
+
+###Instructions### 
+first version( 5 minutes speed exercise)
+
++ Draw 10 or more circles on a squarish drawing surface
++ A circle have to touch or carve minimum one other circle
++ If there are generated more then 5 intersections hatch them blue
++ If there are generated less then 5 intersections hatch them red
+
+Theese are the results of the very beginning:
 
 ![Imgur](http://i.imgur.com/0SmiFdv.jpg) ![Imgur](http://i.imgur.com/X53sdcI.jpg) ![Imgur](http://i.imgur.com/PfNRfgZ.jpg)
   ![Imgur](http://i.imgur.com/EuHadmv.jpg) ![Imgur](http://i.imgur.com/BDIKPKQ.jpg)
+  
+  These thing weren`t clear enough and could be understould in different ways:
+  
+  + Draw 10 or more circles on a squarish drawing surface
+  + A => **Every circle** have to touch or carve minimum one other circle
+  + If there are generated **overall**more then 5 intersections hatch them => **the intersections** blue
+  + If there are generated **overall**less then 5 intersections hatch them => **the intersections** red
+  
+###Instructions###
+second version
+Materials: white paper, green red and blue colored felt pen, mix of differnt pens, ball pens and so on
+
++ Draw minimum 2o circles in different sizes on the sheet
++ Every circle have to touch or carve minimum one other circle
++ If there are generated more then 10 intersections hatch the intesections blue
++ If there are generated less then 10 intersections hatch the intesections red
++ Mark every point of intersection and osculation point with the green marker
++ Connect every green point with each other.
+
+These are the results of the second version executed by ten differnt people:
+
+![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/wv4yzp6.jpg)![Imgur](http://i.imgur.com/fXMfc50.jpg)
+![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
+![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
+![Imgur](http://i.imgur.com/hOUKsXw.jpg)![Imgur](http://i.imgur.com/hOUKsXw.jpg)
+  
+  
+  
 
 ###Instructions###
 
