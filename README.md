@@ -1,10 +1,10 @@
 # Conceptual formulation
 
 The first exercise in the course **"Eingabe-Ausgabe"** was to device an analgogue algorithm.
-It need to be precise and clear for the people who put it into execution.
+It need to be as precise and clear as possible for the people who put it into execution.
 
-### Instructions### 
-first version( 5 minutes speed exercise)
+### Instructions of first version
+( 5 minutes speed exercise)
 
 + Draw 10 or more circles on a squarish drawing surface
 + A circle have to touch or carve minimum one other circle
@@ -20,14 +20,16 @@ Theese are the results of the very beginning:
   
   + Draw 10 or more circles on a squarish drawing surface
   + A => **Every circle** have to touch or carve minimum one other circle
-  + If there are generated **overall**more then 5 intersections hatch them => **the intersections** blue
-  + If there are generated **overall**less then 5 intersections hatch them => **the intersections** red
+  + If there are generated **overall** more then 5 intersections hatch them => **the intersections** blue
+  + If there are generated **overall** less then 5 intersections hatch them => **the intersections** red
   
-### Instructions###
-second version
+After the course discused the results of erveryone our task was to improve the algorithm and give it to 10 persons to put it into execution
+  
+### Instructions of the second version
+
 Materials: white paper, green red and blue colored felt pen, mix of differnt pens, ball pens and so on
 
-+ Draw minimum 2o circles in different sizes on the sheet
++ Draw minimum 20 circles in different sizes on the sheet
 + Every circle have to touch or carve minimum one other circle
 + If there are generated more then 10 intersections hatch the intesections blue
 + If there are generated less then 10 intersections hatch the intesections red
@@ -44,7 +46,8 @@ These are the results of the second version executed by ten differnt people:
   
   
 
-### Instructions###
+### Instructions of the final version
+
 
 **Materials: 3 different water-color mix, pen, Setsquare, black felt pen, injection**
 
