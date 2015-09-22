@@ -25,7 +25,7 @@ After a couple of tries and improvements i came to following result:
   6a Link all marked points of intersection with the black felt pen 
 
   6b Retrace every line which you have made befor with your pen with the black felt pen.
-  ![Imgur](http://i.imgur.com/qNa3yyK.jpg)![Imgur](http://i.imgur.com/qbTkUrR.jpg)![Imgur](http://i.imgur.com/K3YnvlC.jpg)
+  ![Imgur](http://i.imgur.com/nRCrVlr.jpg)![Imgur](http://i.imgur.com/DKvsRkG.jpg)![Imgur](http://i.imgur.com/h9veLFI.jpg)
   ![Imgur](http://i.imgur.com/LtokXm1.jpg)![Imgur](http://i.imgur.com/aG1A80R.jpg)![Imgur](http://i.imgur.com/ZhEGE7U.jpg)
   ![Imgur](http://i.imgur.com/r5FrYld.jpg)![Imgur](http://i.imgur.com/lSrBU6w.jpg)
   ![Imgur](http://i.imgur.com/YWMmlkY.jpg)![Imgur](http://i.imgur.com/vyfjYiM.jpg)
