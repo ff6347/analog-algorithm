@@ -26,7 +26,7 @@ After a couple of tries and improvements i came to following result:
 
   6b Retrace every line which you have made befor with your pen with the black felt pen.
   
-  ![Imgur](http://i.imgur.com/nRCrVlr.jpg)![Imgur](http://i.imgur.com/DKvsRkG.jpg)![Imgur](http://i.imgur.com/h9veLFI.jpg)
+  [Imgur](http://i.imgur.com/1SBEXML.jpg)![Imgur](http://i.imgur.com/AmDdViQ.jpg)![Imgur](http://i.imgur.com/za4QzTZ.jpg)
   
   
   
